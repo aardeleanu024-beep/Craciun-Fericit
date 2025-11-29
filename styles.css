@@ -1,6 +1,13 @@
 body{
     background-color: #F5624D;
     font-size: 16px;
+    background-image: url ("C:\Users\aarde\Desktop\index.html\img\winter.jpg.jpg")
+}
+@font-face {
+    font-family: 'rosehot';
+    src: url(fonts/rosehot.tff/Rosehot.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 @media (max-width: 600px) {
     body {
@@ -12,7 +19,8 @@ h1{
     text-decoration: dotted;
     text-decoration-color:aqua;
     text-decoration-line: underline;
-    color: rgb(124, 138, 1)
+    color: rgb(124, 138, 1);
+    font-family: 'rosehot';
 }
 .present1{
     display: inline-block;
@@ -24,15 +32,39 @@ h1{
     border-radius: 8px;
     border-left: 5px;
     margin-left: 5px;
-    
-
+    font-family: 'rosehot';
+    font-size: large;
 }
 h2{
     text-align: center;
     text-decoration: none;
-    color: greenyellow;
-    display: inline-block;
+    color: green;
     padding: 25px, 25px;
-    background-color: aliceblue;
-
+    font-family: 'rosehot';
+}
+.present2{
+    display: inline-block;
+    padding: 35px 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    font-family: 'rosehot';
+    font-size: large;
+}
+.present3{
+    display: inline-block;
+    padding: 35px 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(150%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    font-family: 'rosehot';
+    font-size: large;
 }
