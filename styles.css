@@ -1,0 +1,38 @@
+body{
+    background-color: #F5624D;
+    font-size: 16px;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+h1{
+    text-align: center;
+    text-decoration: dotted;
+    text-decoration-color:aqua;
+    text-decoration-line: underline;
+    color: rgb(124, 138, 1)
+}
+.present1{
+    display: inline-block;
+    padding: 35px 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-30%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    
+
+}
+h2{
+    text-align: center;
+    text-decoration: none;
+    color: greenyellow;
+    display: inline-block;
+    padding: 25px, 25px;
+    background-color: aliceblue;
+
+}
