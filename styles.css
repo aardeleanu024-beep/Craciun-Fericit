@@ -24,7 +24,7 @@ h1{
 }
 .present1{
     display: inline-block;
-    padding: 35px 35px;
+    padding: 4vh 4vh;
     top: 50%;
     left: 50%;
     transform: translate(-30%, 50%);
@@ -34,6 +34,7 @@ h1{
     margin-left: 5px;
     font-family: 'rosehot';
     font-size: large;
+    box-shadow: 3px 2px 4px;
 }
 h2{
     text-align: center;
@@ -44,27 +45,71 @@ h2{
 }
 .present2{
     display: inline-block;
-    padding: 35px 35px;
+    padding: 4vh 4vh;
     top: 50%;
     left: 50%;
-    transform: translate(50%, 50%);
+    transform: translate(80%, 50%);
     background-color: green;
     border-radius: 8px;
     border-left: 5px;
     margin-left: 5px;
     font-family: 'rosehot';
     font-size: large;
+    box-shadow: 3px 2px 4px;
 }
 .present3{
     display: inline-block;
-    padding: 35px 35px;
+    padding: 4vh 4vh;
     top: 50%;
     left: 50%;
-    transform: translate(150%, 50%);
+    transform: translate(210%, 50%);
     background-color: green;
     border-radius: 8px;
     border-left: 5px;
     margin-left: 5px;
     font-family: 'rosehot';
     font-size: large;
+    box-shadow: 3px 2px 4px;
+} 
+.present4{
+    display: inline-block;
+    padding: 4vh 4vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(340%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    font-family: 'rosehot';
+    font-size: large;
+    box-shadow: 3px 2px 4px;
+}
+.present5{
+    display: inline-block;
+    padding: 4vh 4vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(470%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    font-family: 'rosehot';
+    font-size: large;
+    box-shadow: 3px 2px 4px;
+}
+.present6{
+    display: inline-block;
+    padding: 4vh 4vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(630%, 50%);
+    background-color: green;
+    border-radius: 8px;
+    border-left: 5px;
+    margin-left: 5px;
+    font-family: 'rosehot';
+    font-size: large;
+    box-shadow: 3px 2px 4px;
 }
