@@ -1,7 +1,7 @@
 body{
     background-color: #F5624D;
     font-size: 16px;
-    background-image: url ("C:\Users\aarde\Desktop\index.html\img\winter.jpg.jpg")
+    background-image: url(img/winter.jpg.jpg);
 }
 @font-face {
     font-family: 'rosehot';
