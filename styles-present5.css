@@ -81,7 +81,11 @@ h1::before{
 .btn:hover{
     background-color: rgba(196, 31, 40, 1);
     border-radius: 3rem;
+    transition: 2s;
 }
 .backbtn:hover{
     color: rgba(196, 31, 40, 1);
+}
+audio{
+    opacity: 0;
 }

@@ -57,6 +57,7 @@ body{
     box-shadow: 2px 4px 3px rgba(0,0,0,0.7);
     text-decoration: none;
 }
+
 .backbtn{padding: 1rem 25rem;
     display: inline-block;
     transition: 0,3s;
@@ -81,7 +82,11 @@ h1::before{
 .btn:hover{
     background-color: rgba(196, 31, 40, 1);
     border-radius: 3rem;
+    transition: 2s;
 }
 .backbtn:hover{
     color: rgba(196, 31, 40, 1);
+}
+audio{
+    opacity: 0;
 }

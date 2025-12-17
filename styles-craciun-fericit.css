@@ -12,7 +12,17 @@
 html{
     font-size: 100%;
 }
-
+audio{
+    opacity: 0;
+}
+p{
+    font-size: 25px;
+    font-family: 'rosehot';
+    text-align: center;
+    color: #2DBD13;
+    text-shadow: 2px 2px 2px black;
+    font-weight: bolder;
+}
 h1{
     text-align: center;
     color: #2DBD13;
@@ -81,11 +91,16 @@ h1::before{
 .btn:hover{
     background-color: rgba(196, 31, 40, 1);
     border-radius: 3rem;
-    transition: 2s;
 }
 .backbtn:hover{
     color: rgba(196, 31, 40, 1);
 }
-audio{
-    opacity: 0;
+#key{
+     text-decoration: none;
+    color: #ff7300;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+#key:hover{
+    color: #e6ff06;
 }

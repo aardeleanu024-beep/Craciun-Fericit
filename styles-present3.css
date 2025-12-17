@@ -85,3 +85,6 @@ h1::before{
 .backbtn:hover{
     color: rgba(196, 31, 40, 1);
 }
+audio{
+    opacity: 0;
+}
